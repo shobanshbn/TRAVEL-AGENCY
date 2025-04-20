@@ -310,11 +310,130 @@ nav ul li .login{
  .things{
    margin-top: 12rem;
    max-width: 1134px;
-   border: 1px solid;
+   
+   
  }
 
  .things .container{
    position: relative;
    margin: 0;
-   border: 1px solid;
+   
+  
+   
  }
+
+ .things .container. .content .head{
+  
+   
+   width: 521px;
+   height: 142px;
+   left: 699px;
+   top: 1119px;
+   
+ }
+
+ .things .container h1{
+   font-family: "volkhov", sans-serif;
+   font-weight: 900;
+   font-size: 48px;
+   text-align: center;
+   padding-left: 100px;
+ }
+
+ .things .container h1 .orange{
+   color: var(--orange-color);
+ }
+
+ .things .container .head p{
+   text-align: center;
+   margin-top: -20px;
+   padding-bottom: 15rem;
+   padding-left: 100px;
+ }
+
+ .things .container .element{
+   position: absolute;
+   width: 180px;
+   height: 130px;
+   margin-left: 60rem;
+
+ }
+
+ .things .container .content .cards{
+   position: relative;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+   gap: 10px;
+   padding-bottom: 20rem;
+ }
+
+ .things .container .content .cards  .bg{
+   
+   position: relative;
+   width: 370px;
+   height: 278px;
+   box-shadow: -8px 8px 40px rgba(0, 0, 0, 6);
+   border-radius: 10px;
+   z-index: 1;
+   align-items: center;
+   margin-left: 50px;
+   margin-top: -10rem;
+   
+}
+
+ .things .container .cards .content img{
+   position: absolute;
+   margin-left: 100px;
+   margin-top: -4rem;
+  
+ }
+
+ .things .container .cards h4{
+
+   position: relative;
+   font-size: 20px;
+   font-family: "poppins", sans-serif;
+   margin-left: 100px ;
+   margin-top: -10rem;
+   
+ }
+
+ .things .container .cards p{
+   position: absolute;
+   font-size: 16px;
+   font-family: "poppins", sans-serif;
+   margin-top: -10px;
+   margin-left: 100px;
+
+}
+
+.things .container .cards .card-1 .line-1 img{
+  
+   position: absolute;
+   margin: 0;
+   margin-left: 50px;
+   margin-top: -10rem;
+
+}
+
+.things .container .cards .card-2 .line-2 img{
+  
+   position: absolute;
+   margin: 0;
+   margin-left: 50px;
+   margin-top: -10rem;
+
+}
+
+.things .container .cards .card-3 .line-3 img{
+  
+   position: absolute;
+   margin: 0;
+   margin-left: 50px;
+   margin-top: -10rem;
+
+}
+
+
+
