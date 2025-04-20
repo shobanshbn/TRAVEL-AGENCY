@@ -337,7 +337,7 @@ nav ul li .login{
    font-weight: 900;
    font-size: 48px;
    text-align: center;
-   padding-left: 100px;
+   padding-left: 140px;
  }
 
  .things .container h1 .orange{
@@ -348,7 +348,7 @@ nav ul li .login{
    text-align: center;
    margin-top: -20px;
    padding-bottom: 15rem;
-   padding-left: 100px;
+   padding-left: 140px;
  }
 
  .things .container .element{
@@ -356,6 +356,7 @@ nav ul li .login{
    width: 180px;
    height: 130px;
    margin-left: 60rem;
+   padding-left: 50px;
 
  }
 
@@ -373,7 +374,7 @@ nav ul li .login{
    position: relative;
    width: 370px;
    height: 278px;
-   box-shadow: -8px 8px 40px rgba(0, 0, 0, 6);
+   box-shadow: -8px 8px 40px rgba(0, 0, 0, 0.1);
    border-radius: 10px;
    z-index: 1;
    align-items: center;
@@ -435,5 +436,176 @@ nav ul li .login{
 
 }
 
+.exclusive{
+   margin-top: 0;
+   max-width: 1134px;
+   
+   
+ }
+
+ .exclusive .container{
+   position: relative;
+   margin: 0;
+ }
+
+ .exclusive .container. .content .head{
+  
+   
+   width: 521px;
+   height: 142px;
+   left: 699px;
+   top: 1119px;
+   
+ }
+
+ .exclusive .container h1{
+   font-family: "volkhov", sans-serif;
+   font-weight: 900;
+   font-size: 48px;
+   text-align: center;
+   padding-left: 140px;
+ }
+
+ .exclusive .container h1 .orange{
+   color: var(--orange-color);
+ }
+
+ .exclusive .container .head p{
+   text-align: center;
+   margin-top: -20px;
+   padding-bottom: 15rem;
+   padding-left: 140px;
+ }
+
+ .exclusive .container .content .cards{
+   position: relative;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+   gap:1px;
+   padding-bottom: 20rem;
+ }
+
+ .exclusive .container .content .cards  .bg{
+   
+   position: relative;
+   width: 270px;
+   height: 426px;
+   box-shadow: -8px 8px 40px rgba(0, 0, 0, 0.1);
+   border-radius: 10px;
+   z-index: 1;
+   align-items: center;
+   margin-left: 50px;
+   margin-top: -10rem;
+   
+}
+
+.exclusive .container .content .cards .main img{
+
+   position: absolute;
+   width: 270px;
+   height: 290px;
+   margin-left: 50px;
+   margin-top: -426px;
+
+}
+
+.hover{
+   position: absolute;
+   width: 270px;
+   height: 290px;
+   margin-left: 50px;
+   margin-top: -426px;
+  
+}
+
+
+.hover .btn{
+
+   position: absolute;
+   width: 150px;
+   height: 50px;
+   background-color: var(--orange-color);
+   border-radius: 10px;
+   color: white;
+   font-family: "poppins", sans-serif;
+   font-size: 16px;
+   margin-left: -210px;
+   margin-top: 200px;
+}
+
+.exclusive .container .content .cards .upper{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   margin-top: -140px;
+   padding-left: 35px;
+
+}
+
+.exclusive .container .content .cards .upper h5{
+   font-size: 20px;
+   padding-left: 10px;
+}
+
+.exclusive .container .content .cards .upper img{
+   
+   padding-left: 80px;
+}
+
+.exclusive .container .content .cards .upper p{
+  margin-left: -30px;
+}
+
+.exclusive .container .content .cards .lower{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   margin-top: -30px;
+   padding-left: 50px;
+
+
+}
+
+.exclusive .container .content .cards .lower .left{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   gap: 10px;
+   margin-left: -50px;
+}
+
+.exclusive .container .content .cards .lower .right{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   gap: 10px;
+   margin-left: -30px; 
+   
+}
+
+.exclusive .container .content  .lower .right .bg{
+   background-color:#FFE7DB;
+   width: 45px;
+   height: 24px;
+   color: var(--orange-color);
+   font-weight: bold;
+   border-radius: 5px;
+   position: absolute;
+   margin-top: 15px;
+   margin-left: 102px;
+   padding-left: 2px;
+    
+}
+
+.exclusive .container .content  .lower .right .line{
+   text-decoration: line-through;
+}
+
+.exclusive .container .content .bottom img{
+   position: absolute;
+   margin-left: 620px;
+   margin-top: -230px;
+}
 
 
